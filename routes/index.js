@@ -8,7 +8,7 @@ const url =
 const options = {
   method: "GET",
   headers: {
-    Accept: "application/json",
+    accept: "application/json",
     Authorization: connectionAPIKey,
   },
 };
